@@ -1,1 +1,2 @@
 This is version 2 of my s/w.
+but now i am not in master.
